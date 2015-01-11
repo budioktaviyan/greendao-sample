@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sample GreenDAO</string>
+    <string name="app_detail">User Information</string>
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="row_id">User ID:</string>
+    <string name="row_username">Username:</string>
+    <string name="row_role">Role:</string>
+    <string name="details_username">Input username</string>
+    <string name="details_password">Input password</string>
+    <string name="details_role">Select role</string>
+    <string name="details_firstname">Input first name</string>
+    <string name="details_lastname">Input last name</string>
+    <string name="details_gender">Select gender</string>
+    <string name="error_cannot_be_empty">Field cannot be empty</string>
+    <string name="error_validation">Validation error</string>
+    <string name="dialog_title_delete_items">Delete users</string>
+    <string name="dialog_title_delete_item">Delete user</string>
+    <string name="dialog_content_delete_items">Do you want to delete all users from list?</string>
+    <string name="dialog_content_delete_item">Do you want to delete this user?</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>

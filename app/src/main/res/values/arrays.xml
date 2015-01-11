@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_role">
+        <item>ADMIN</item>
+        <item>USER</item>
+    </string-array>
+    <string-array name="user_gender">
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+</resources>
