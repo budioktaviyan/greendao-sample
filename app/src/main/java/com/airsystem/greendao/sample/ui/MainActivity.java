@@ -19,7 +19,7 @@ import com.airsystem.greendao.sample.services.DatabaseServices;
 import com.airsystem.greendao.sample.ui.adapter.UsersAdapter;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public class MainActivity extends ActionBarActivity implements AdapterView.OnItemClickListener, DialogInterface.OnClickListener {
     ListView mUsers;

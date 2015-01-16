@@ -7,7 +7,7 @@ import com.airsystem.greendao.sample.dao.DaoMaster;
 import com.airsystem.greendao.sample.dao.DaoSession;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public class MainApplication extends Application {
     public DaoSession mDaoSession;

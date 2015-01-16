@@ -15,7 +15,7 @@ import com.airsystem.greendao.sample.services.DatabaseServices;
 import java.util.List;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public class UsersAdapter extends ArrayAdapter<Users> implements IUsersAdapter {
     private LayoutInflater mInflater;

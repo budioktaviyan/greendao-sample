@@ -6,7 +6,7 @@ import de.greenrobot.daogenerator.Property;
 import de.greenrobot.daogenerator.Schema;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public class SchemaGenerator implements ISchemaGenerator, ISchemaGenerator.IEntities {
     public static void main(String[] args) {

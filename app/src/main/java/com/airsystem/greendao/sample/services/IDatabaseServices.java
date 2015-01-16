@@ -8,7 +8,7 @@ import com.airsystem.greendao.sample.dao.Users;
 import java.util.List;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public interface IDatabaseServices {
     List<Users> findAll(Context context);

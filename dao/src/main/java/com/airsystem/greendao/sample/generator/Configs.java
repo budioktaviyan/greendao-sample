@@ -1,7 +1,7 @@
 package com.airsystem.greendao.sample.generator;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public class Configs {
     public static final String BASE_DIR = System.getProperty("user.dir").replace("\\", "/");

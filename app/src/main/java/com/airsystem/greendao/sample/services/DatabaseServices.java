@@ -11,7 +11,7 @@ import com.airsystem.greendao.sample.dao.UsersDao;
 import java.util.List;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public class DatabaseServices implements IDatabaseServices {
     Context mContext;

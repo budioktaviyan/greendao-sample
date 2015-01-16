@@ -18,7 +18,7 @@ import com.airsystem.greendao.sample.dao.Users;
 import com.airsystem.greendao.sample.services.DatabaseServices;
 
 /**
- * Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
+ * @author Budi Oktaviyan Suryanto (budi.oktaviyan@icloud.com)
  */
 public class DetailsActivity extends ActionBarActivity implements DialogInterface.OnClickListener {
     private EditText mEditTextUsername;
